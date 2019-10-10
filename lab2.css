@@ -10,6 +10,7 @@
 }
 .three
 {
+
 	color:yellow;
 	background-color: #C0CD34;
 }
@@ -20,10 +21,19 @@
 }
 table 
 {
-	width: 100%
+	border-color: black;
+
+	
+	width: 500px
+
+
 
 }
 .change
 {
 	color: orange;
+}
+th
+{
+	background-color: #CD872C;
 }

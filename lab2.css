@@ -1,16 +1,29 @@
 .one
 {
 	color:green;
+	background-color: #CDA891;
 }
 .two
 {
 	color:red;
+	background-color: #4452CD;
 }
 .three
 {
 	color:yellow;
+	background-color: #C0CD34;
 }
 .four
 {
 	color:blue;
+	background-color: #CD6000;
+}
+table 
+{
+	width: 100%
+
+}
+.change
+{
+	color: orange;
 }
